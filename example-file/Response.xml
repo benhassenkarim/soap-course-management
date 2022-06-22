@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GestCourseDetailsResponse xmlns="http://in30minutes.com/courses"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://in30minutes.com/courses course-details.xsd"
+>
+<CourseDetails>
+<id>123</id>
+<name> Spring in30minutes</name>
+<description>lean soap as fast as i can</description>
+</CourseDetails>
+
+</GestCourseDetailsResponse>
